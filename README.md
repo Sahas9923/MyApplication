@@ -1,0 +1,2 @@
+# MyApplication
+For testing purposes
